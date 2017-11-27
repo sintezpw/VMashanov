@@ -1,0 +1,26 @@
+{
+	"name": "VMashanov",
+	"version": "1.0.0",
+	"description": "Виталий Машанов",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "pingy dev",
+		"export": "pingy export"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vitalik3185/VMashanov.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/vitalik3185/VMashanov/issues"
+	},
+	"homepage": "https://github.com/vitalik3185/VMashanov#readme",
+	"dependencies": {},
+	"devDependencies": {
+		"@pingy/cli": "^0.10.4"
+	}
+}
